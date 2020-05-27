@@ -6,7 +6,8 @@
   <con:testStep type="groovy" name="Groovy Script" id="8b90938c-d4bb-4480-8ad6-e39327bcdae8">
     <con:settings/>
     <con:config>
-      <script>log.info('test')</script>
+      <script>log.info('test')
+log.info('test')</script>
     </con:config>
   </con:testStep>
   <con:properties/>
