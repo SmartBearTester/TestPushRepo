@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="b70c285b-e98b-4251-8823-49d3eaf5f3a2" created="3.2.5" activeEnvironment="Default environment" name="git-test-push-project" resourceRoot="" compositeProjectFormat="1.3" updated="3.2.5" encryptionMode="Not encrypted" xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="b70c285b-e98b-4251-8823-49d3eaf5f3a2" created="3.2.5" activeEnvironment="Default environment" name="git-test-push-project" resourceRoot="" compositeProjectFormat="1.3" updated="3.2.7" encryptionMode="Not encrypted" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="b70c285b-e98b-4251-8823-49d3eaf5f3a2fileName">git-test-push-project</con:setting>
   </con:settings>
