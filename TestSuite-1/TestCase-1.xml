@@ -7,7 +7,7 @@
     <con:settings/>
     <con:config>
       <script>log.info('test')
-log.info('test234')</script>
+log.info('test456')</script>
     </con:config>
   </con:testStep>
   <con:properties/>
